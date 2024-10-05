@@ -14,7 +14,7 @@ This dashboard illustrates the **Top 10 programming languages**, **Top 10 databa
 
 ## Demographics of Respondents
 
-![Demographics](./Demographics.png)
+![Demographics](./IMG-20241005-WA0102.jpg)
 
 This dashboard presents the demographic data of the survey respondents, covering:
 - **Education Level**: Distribution of respondents based on their highest level of education.
